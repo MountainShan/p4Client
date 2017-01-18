@@ -9,6 +9,9 @@ Update log:
 --------------
 2016-11-03:
  - Improved the process time of inserting entries
+2017-01-18:
+ - Support multi-server (with IP and Port)
+ - Error with generating lots of entries
 
 Future Work:
 --------------
